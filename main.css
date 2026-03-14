@@ -735,8 +735,8 @@ body {
 }
 
 .minnn:hover {
-  background-image: url("https://st3.depositphotos.com/1000874/13916/i/450/depositphotos_139163196-stock-photo-set-of-food-products.jpg");
   border-radius: 30px;
+  background-color: #adadad;
 }
 
 .mmmmini:hover {
@@ -1105,4 +1105,12 @@ body {
 .pas {
   color: black;
   list-style-type: none;
+}
+
+.ww {
+  font-size: 15px;
+}
+
+.pyoz-m {
+  width: 500px;
 }
